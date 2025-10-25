@@ -50,7 +50,7 @@
                   className: "flex items-center gap-4",
                   children: [
                     (0, r.jsxs)(a(), {
-                      href: "https://twitter.com/1push_fun",
+                      href: "https://twitter.com/grenly_fun",
                       target: "_blank",
                       rel: "noopener noreferrer",
                       className:
@@ -271,7 +271,7 @@
                   (0, r.jsx)(o.$, {
                     onClick: () => {
                       let e = encodeURIComponent(
-                        "Love sharing opinions? Join Grenly! Create takes, earn from trading fees, and build your reputation. Start today: Grenly.fun @1push_fun"
+                        "Love sharing opinions? Join Grenly! Create takes, earn from trading fees, and build your reputation. Start today: Grenly.fun @grenly_fun"
                       );
                       window.open(
                         "https://twitter.com/intent/tweet?text=".concat(e),
