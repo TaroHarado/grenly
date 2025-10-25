@@ -68,7 +68,7 @@
                       ],
                     }),
                     (0, r.jsxs)(a(), {
-                      href: "https://pump.fun",
+                      href: "https://four.meme",
                       target: "_blank",
                       rel: "noopener noreferrer",
                       className:
